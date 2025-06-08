@@ -3,13 +3,12 @@ I'm Bohdan from Ukraine\Kyiv
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-skichkobohdans-projects.vercel.app/api?username=BohdanSkichko" />
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=103322489" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=103322489&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @BohdanSkichko" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=103322489&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BohdanSkichko&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 
 ### 🔗 Connect with me
 
