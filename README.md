@@ -3,7 +3,7 @@ I'm Bohdan from Ukraine\Kyiv
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://profile-skichkobohdans-projects.vercel.app/api?username=BohdanSkichko&show_icons=true&hide_title=true&theme=radical)
+![Your GitHub stats](github-readme-stats-ecru-rho-65.vercel.app/api?username=BohdanSkichko&show_icons=true&hide_title=true&theme=radical)
 
 ### 🔗 Connect with me
 
